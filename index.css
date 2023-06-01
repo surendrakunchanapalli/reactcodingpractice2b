@@ -1,0 +1,61 @@
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  font-family: Roboto;
+  font-size: 36px;
+  color: #0f172a;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+}
+
+.blue-bg {
+  background-color: #0b69ff;
+  height: 100%;
+  padding: 20px;
+  border-radius: 5px;
+  margin: 20px;
+}
+
+.green-bg {
+  background-color: #2dca73;
+  height: 100%;
+  padding: 20px;
+  border-radius: 5px;
+  margin: 20px;
+}
+
+.yellow-bg {
+  background-color: #ffb800;
+  height: 100%;
+  padding: 20px;
+  border-radius: 5px;
+  margin: 20px;
+}
+
+.red-bg {
+  background-color: #ff0b37;
+  height: 100%;
+  padding: 20px;
+  border-radius: 5px;
+  margin: 20px;
+}
+
+.icon {
+  color: white;
+  height: 30px;
+  width: 30px;
+}
+
+.message {
+  color: white;
+  font-family: Roboto;
+  font-size: 18px;
+}
